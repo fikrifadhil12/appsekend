@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037811745197",
+    "project_id": "appsekd",
+    "storage_bucket": "appsekd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037811745197:android:f8a1e6c1431907f036e124",
+        "android_client_info": {
+          "package_name": "com.example.appsekd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BbwIB-cDcls3QqR2b-PGrmMcxF6g6Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
